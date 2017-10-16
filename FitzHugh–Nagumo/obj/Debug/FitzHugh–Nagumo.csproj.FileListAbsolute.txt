@@ -1,0 +1,41 @@
+c:\users\иван\documents\visual studio 2012\Projects\FitzHugh–Nagumo\FitzHugh–Nagumo\bin\Debug\FitzHugh–Nagumo.exe.config
+c:\users\иван\documents\visual studio 2012\Projects\FitzHugh–Nagumo\FitzHugh–Nagumo\bin\Debug\FitzHugh–Nagumo.exe
+c:\users\иван\documents\visual studio 2012\Projects\FitzHugh–Nagumo\FitzHugh–Nagumo\bin\Debug\FitzHugh–Nagumo.pdb
+c:\users\иван\documents\visual studio 2012\Projects\FitzHugh–Nagumo\FitzHugh–Nagumo\obj\Debug\FitzHugh–Nagumo.csprojResolveAssemblyReference.cache
+c:\users\иван\documents\visual studio 2012\Projects\FitzHugh–Nagumo\FitzHugh–Nagumo\obj\Debug\FitzHugh_Nagumo.Form1.resources
+c:\users\иван\documents\visual studio 2012\Projects\FitzHugh–Nagumo\FitzHugh–Nagumo\obj\Debug\FitzHugh_Nagumo.Properties.Resources.resources
+c:\users\иван\documents\visual studio 2012\Projects\FitzHugh–Nagumo\FitzHugh–Nagumo\obj\Debug\FitzHugh–Nagumo.csproj.GenerateResource.Cache
+c:\users\иван\documents\visual studio 2012\Projects\FitzHugh–Nagumo\FitzHugh–Nagumo\obj\Debug\FitzHugh–Nagumo.exe
+c:\users\иван\documents\visual studio 2012\Projects\FitzHugh–Nagumo\FitzHugh–Nagumo\obj\Debug\FitzHugh–Nagumo.pdb
+C:\Users\Иван\Documents\Visual Studio 2012\Projects\FitzHugh–Nagumo\FitzHugh–Nagumo\obj\Debug\FitzHugh_Nagumo.Form2.resources
+C:\Users\Иван\Documents\Visual Studio 2012\Projects\FitzHugh–Nagumo\FitzHugh–Nagumo\bin\Debug\ZedGraph.dll
+C:\Users\Иван\Desktop\FitzHugh–Nagumo\FitzHugh–Nagumo\bin\Debug\FitzHugh–Nagumo.exe.config
+C:\Users\Иван\Desktop\FitzHugh–Nagumo\FitzHugh–Nagumo\obj\Debug\FitzHugh–Nagumo.exe
+C:\Users\Иван\Desktop\FitzHugh–Nagumo\FitzHugh–Nagumo\obj\Debug\FitzHugh–Nagumo.pdb
+C:\Users\Иван\Desktop\FitzHugh–Nagumo\FitzHugh–Nagumo\bin\Debug\FitzHugh–Nagumo.exe
+C:\Users\Иван\Desktop\FitzHugh–Nagumo\FitzHugh–Nagumo\bin\Debug\FitzHugh–Nagumo.pdb
+C:\Users\Иван\Desktop\FitzHugh–Nagumo\FitzHugh–Nagumo\bin\Debug\ZedGraph.dll
+C:\Users\Иван\Desktop\FitzHugh–Nagumo\FitzHugh–Nagumo\obj\Debug\FitzHugh–Nagumo.csprojResolveAssemblyReference.cache
+C:\Users\Иван\Desktop\FitzHugh–Nagumo\FitzHugh–Nagumo\obj\Debug\FitzHugh_Nagumo.Form1.resources
+C:\Users\Иван\Desktop\FitzHugh–Nagumo\FitzHugh–Nagumo\obj\Debug\FitzHugh_Nagumo.Form2.resources
+C:\Users\Иван\Desktop\FitzHugh–Nagumo\FitzHugh–Nagumo\obj\Debug\FitzHugh_Nagumo.Properties.Resources.resources
+C:\Users\Иван\Desktop\FitzHugh–Nagumo\FitzHugh–Nagumo\obj\Debug\FitzHugh–Nagumo.csproj.GenerateResource.Cache
+D:\Учеба\7 семестр\спец.курс.крюков\FitzHugh–Nagumo\FitzHugh–Nagumo\bin\Debug\FitzHugh–Nagumo.exe.config
+D:\Учеба\7 семестр\спец.курс.крюков\FitzHugh–Nagumo\FitzHugh–Nagumo\obj\Debug\FitzHugh–Nagumo.exe
+D:\Учеба\7 семестр\спец.курс.крюков\FitzHugh–Nagumo\FitzHugh–Nagumo\obj\Debug\FitzHugh–Nagumo.pdb
+D:\Учеба\7 семестр\спец.курс.крюков\FitzHugh–Nagumo\FitzHugh–Nagumo\bin\Debug\FitzHugh–Nagumo.exe
+D:\Учеба\7 семестр\спец.курс.крюков\FitzHugh–Nagumo\FitzHugh–Nagumo\bin\Debug\FitzHugh–Nagumo.pdb
+D:\Учеба\7 семестр\спец.курс.крюков\FitzHugh–Nagumo\FitzHugh–Nagumo\bin\Debug\ZedGraph.dll
+D:\Учеба\7 семестр\спец.курс.крюков\FitzHugh–Nagumo\FitzHugh–Nagumo\obj\Debug\FitzHugh–Nagumo.csprojResolveAssemblyReference.cache
+D:\Учеба\7 семестр\спец.курс.крюков\FitzHugh–Nagumo\FitzHugh–Nagumo\obj\Debug\FitzHugh_Nagumo.Form1.resources
+D:\Учеба\7 семестр\спец.курс.крюков\FitzHugh–Nagumo\FitzHugh–Nagumo\obj\Debug\FitzHugh_Nagumo.Form2.resources
+D:\Учеба\7 семестр\спец.курс.крюков\FitzHugh–Nagumo\FitzHugh–Nagumo\obj\Debug\FitzHugh_Nagumo.Properties.Resources.resources
+D:\Учеба\7 семестр\спец.курс.крюков\FitzHugh–Nagumo\FitzHugh–Nagumo\obj\Debug\FitzHugh–Nagumo.csproj.GenerateResource.Cache
+D:\Учеба\7 семестр\спец.курс.крюков\FitzHugh–Nagumo\FitzHugh–Nagumo\obj\Debug\FitzHugh_Nagumo.Form3.resources
+D:\Учеба\7 семестр\спец.курс.крюков\FitzHugh–Nagumo\FitzHugh–Nagumo\bin\Debug\Newtonsoft.Json.dll
+D:\Учеба\7 семестр\спец.курс.крюков\FitzHugh–Nagumo\FitzHugh–Nagumo\bin\Debug\Newtonsoft.Json.xml
+D:\Учеба\7 семестр\спец.курс.крюков\FitzHugh–Nagumo\FitzHugh–Nagumo\obj\Debug\FitzHugh_Nagumo.Form4.resources
+C:\Users\Иван\Desktop\FitzHugh–Nagumo\FitzHugh–Nagumo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Иван\Desktop\FitzHugh–Nagumo\FitzHugh–Nagumo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Иван\Desktop\FitzHugh–Nagumo\FitzHugh–Nagumo\obj\Debug\FitzHugh_Nagumo.Form3.resources
+C:\Users\Иван\Desktop\FitzHugh–Nagumo\FitzHugh–Nagumo\obj\Debug\FitzHugh_Nagumo.Form4.resources
